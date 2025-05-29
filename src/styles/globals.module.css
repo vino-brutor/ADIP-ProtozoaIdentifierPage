@@ -1,0 +1,34 @@
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f8f9fb;
+  color: #003366;
+}
+
+h1, h2, h3, label {
+  color: #003366;
+}
+
+.btnCustom {
+  background-color: #003366;
+  border-color: #003366;
+  color: #FFFFFF;
+}
+
+.btnCustom:hover {
+  background-color: #4F83CC;
+  border-color: #4F83CC;
+  color: black;
+}
+
+.navCustom {
+  background-color: #4F83CC;;
+}
+
+.navbarBrandCustom {
+  font-size: 64px;
+}
+
+.adipLogo {
+  width: 150px;
+  height: 150px;
+}

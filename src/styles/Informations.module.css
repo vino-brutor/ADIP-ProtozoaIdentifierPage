@@ -1,0 +1,13 @@
+.cardCustom{
+    box-shadow: "0 4px 16px rgba(0, 0, 0, 0.1)";
+    border: "none";
+    border-radius: "12px";
+    background-color: "#F5F5F5";
+    transition: 0.3s;
+}
+
+.cardCustom:hover {
+  transform: translateY(-4px);
+  transition: 0.3s;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
